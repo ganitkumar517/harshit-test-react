@@ -1,0 +1,29 @@
+/* .signupPage-container {
+  width: 900px;
+  height: 850px;
+} */
+
+/* .signupPage-card {
+  width: 100%;
+  height: 100%;
+} */
+
+.signupPage-image-container {
+  background-image: url('./img4.webp');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  height: 630px;
+}
+
+.signupPage-row {
+  height: 54px;
+  /* background: gray; */
+}
+
+.signupPage-submit-button {
+  height: 45px;
+}
